@@ -12,15 +12,13 @@ Currently building independently at Thabit Labs (systems tooling in Rust and ope
 
 ### Tech I reach for
 
-```
-Rust · TypeScript / Node.js · Go · Python · Scala
-GCP · AWS · PostgreSQL · Kafka · Kubernetes · Terraform · SQLite
+``Rust · TypeScript / Node.js · Go · Python · Scala``
 
-Event-driven architecture · distributed systems · platform engineering · standards & API design · FinOps.
-```
+``GCP · AWS · PostgreSQL · Kafka · Kubernetes · Terraform · SQLite``
+
 
 ### Elsewhere
 
-🌐 [yahmad.com](https://yahmad.com) · 💼 [LinkedIn]([url](https://www.linkedin.com/in/yasiramd/))
+🌐 [yahmad.com](https://yahmad.com) · 💼 [LinkedIn](https://www.linkedin.com/in/yasiramd/)
 
 _Open to senior / lead / staff / principal backend & platform roles — remote, UK._
